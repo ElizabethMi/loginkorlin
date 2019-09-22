@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">loginkorlin</string>
+    <string name="title_activity_segunda">segundaActivity</string>
+    <string name="title_activity_tercera">activity_tercera</string>
+    <string name="title_activity_cuarta">activity_cuarta</string>
+</resources>
